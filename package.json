@@ -2,19 +2,14 @@
   "name": "clumsy-bird",
   "version": "0.1.0",
   "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
-  
-  },
- 
   "scripts": {
-  "build": "ng build"
-},
+    "build": "ng build"
+  },
   "licenses": [
     {
-      "type": "MIT License",
-    
+      "type": "MIT License"
     }
   ],
-  
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -30,4 +25,5 @@
     "grunt-replace": "~0.4.3",
     "grunt-manifest": "~0.4.0"
   }
+}
 
